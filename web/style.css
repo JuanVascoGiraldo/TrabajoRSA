@@ -1,0 +1,54 @@
+.main{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Noto Sans', sans-serif;
+    color:white;
+}
+.contenedor1{
+    border: 1px solid black;
+    display: inline-block;
+    width: 18%;
+    padding: 5%;
+    margin-left: 15%;
+    border-radius: 30px;
+    color:black;
+    background-color: rgba(255, 255, 255, 0.527);
+}
+
+.cifrar{
+    border: 1px solid rgb(255, 255, 255);
+    margin-left:30%;
+    padding: 25px;
+    width: 20%;
+    border-radius: 30px;
+    color:black;
+    background-color: rgba(255, 255, 255, 0.527);
+}
+
+.historial{
+    border:1px solid white;
+    width: 10%;
+    padding: 5%;
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    border-radius: 30px;
+}
+
+input{
+    border-radius: 10px;
+}
+
+button{
+    background: none;
+    color: inherit;
+    border: none;
+    background-color: violet;
+    border-radius: 10px;
+    font-size: 15px;
+}
+button:hover{
+    background-color: rgb(204, 23, 204);
+
+}
